@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header-a{
+	height: 60px;
+	width: 100%;
+	background: #;
+}
+.hboot a{
+	margin-left: 60px;
+	margin-top: 12px;
+	list-style: none;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 22px;
+	color: #fff;
+}
+
+.right-part{
+	float: right;
+	list-style: none;
+	margin-top: 14px;
+}
+.right-part li{
+	display: inline-block;
+}
+.right-part li a{
+	color: #fff;
+	padding: 0px 0px;
+	text-decoration: none;
+	font-size: 18px;
+    margin-right: 25px;
+    color: #CCCCCC;
+}
+.right-part li a:hover{
+	color:#DEE1E6;
+	
+
+}
+.carousel-item{
+margin-top: -145px;
+  height: 90vh;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
